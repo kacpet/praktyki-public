@@ -1,0 +1,25 @@
+{
+  "name": "prakyki-public",
+  "version": "1.0.0",
+  "description": "Public program",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kacpet/prakyki.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Public",
+    "Praktyki"
+  ],
+  "type": "module",
+  "author": "Kacper Makulus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kacpet/prakyki/issues"
+  },
+  "homepage": "https://github.com/kacpet/prakyki#readme"
+}
